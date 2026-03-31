@@ -126,8 +126,3 @@ Open `IPL_Dashboard.pbix` in Power BI Desktop.
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
-Data Analyst Portfolio Project
-[LinkedIn] | [GitHub]
